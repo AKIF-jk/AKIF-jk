@@ -1,6 +1,6 @@
 # Akif Jawad Khan
 
-AI/ML engineer focused on **computer vision and generative models**. I build models that explain themselves, restore and generate images, and run fast, then package them so they can actually be used: ONNX export, FastAPI and Docker backends, Gradio demos. Computer science at FAST-NUCES. Open to AI Engineer, ML Engineer, Generative AI and Computer Vision roles.
+AI/ML engineer focused on **computer vision and generative models**. I build models that explain themselves, restore and generate images, and run fast, then package them so they can actually be used: ONNX export, FastAPI and Docker backends, Gradio demos. Computer science at FAST-NUCES. 
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AKIF-jk)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akifJawad@proton.me)
